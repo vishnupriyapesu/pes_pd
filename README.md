@@ -39,6 +39,8 @@ example:
 
 chip:
 
+![pd5](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/4c47281f-2f94-4289-9a0a-b9da48318f34)
+
 components:
 
 **PADS** :through which, can send signal inside the chip and viceverse
@@ -47,7 +49,11 @@ components:
 
 **Die** : size of the entire chip,manufactured on the silicon 
 
-RISC SoC
+RISC SoC:
+
+
+![pd7](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/90631909-0ff7-45ba-8ea5-073f0d41694d)
+
 
 Foundary Ips(intellectual properties) 
 
