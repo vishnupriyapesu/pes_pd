@@ -36,3 +36,10 @@ example:
 > through **wirebounce** ,able to transfer all the signal from outside world
 
 
+chip:
+
+components:
+
+**PADS** : can send signal inside the chip
+
+
