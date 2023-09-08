@@ -59,6 +59,12 @@ Foundary Ips(intellectual properties)
 Macros : pure digital logic
 
 
+### Introduction to RISC-V
+
+
+![pd8](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5b59a5bc-328d-464d-b3ca-56bc98a9dac8)
+
+
 
 
 
