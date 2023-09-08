@@ -1,13 +1,14 @@
 
 # pes_pd
 # Day-1 Inception of open source EDA ,openLANE and Sky130 PDK 
-## How to talk to computers
 
 
 </details>	
 	
  <details>
- <summary> Introduction to QFN-48 package,chip,pads,core,die and IPs </summary>
+ <summary> How to talk to computers  </summary>
+
+### Introduction to QFN-48 package,chip,pads,core,die and IPs
 
  
  ![pd1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7da74702-9420-4872-960e-81339d4c0f8e)
@@ -40,6 +41,16 @@ chip:
 
 components:
 
-**PADS** : can send signal inside the chip
+**PADS** :through which, can send signal inside the chip and viceverse
+
+**core** : where all digital logic sits
+
+**Die** : size of the entire chip,manufactured on the silicon 
+
+RISC SoC
+
+Foundary Ips(intellectual properties) 
+
+Macros : pure digital logic
 
 
