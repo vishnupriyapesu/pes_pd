@@ -28,5 +28,9 @@ example:
 ![pd4](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5b85bbf4-ab29-49d3-a71d-2b7c22dd01c8)
 
 > chip is at the centre of the package
+
+
 > the way the chip is connected to package is by **wirebounce**
-> 
+
+
+> through **wirebounce** ,able to transfer all the signal from outside world
