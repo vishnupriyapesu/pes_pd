@@ -54,3 +54,4 @@ Foundary Ips(intellectual properties)
 Macros : pure digital logic
 
 
+
