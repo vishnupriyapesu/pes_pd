@@ -43,11 +43,10 @@ chip:
 
 components:
 
-**PADS** :through which, can send signal inside the chip and viceverse
+1. **PADS** :through which, can send signal inside the chip and viceverse
+2. **core** : where all digital logic sits
 
-**core** : where all digital logic sits
-
-**Die** : size of the entire chip,manufactured on the silicon 
+3. **Die** : size of the entire chip,manufactured on the silicon 
 
 RISC SoC:
 
