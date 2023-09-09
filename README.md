@@ -385,12 +385,17 @@ we will be working on pdk variant called sky130_fd_sc_hd
 
  go to the terminal and run following command for access the openlane:
 
- > cd/desktop/works/tools/workshop_openlane_dir/openlane
+ > cd/desktop/works/tools/openlane_workshop__dir/openlane
 
 > docker
 
 > ./flow.tcl -interactive
 
+> package require openlane 0.9
+
+
+
+![Screenshot from 2023-09-09 16-30-35](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/cc22233d-3a1b-4a79-8860-365f30f16333)
 
 
 
