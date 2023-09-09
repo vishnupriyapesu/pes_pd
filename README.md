@@ -118,6 +118,18 @@ Macros : pure digital logic
 
 > june 30 2020 google relewased first ever PDK open source
 
+![Screenshot (186)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b1174e08-aa59-4b6d-99e8-4e7b01beb6e9)
+
+
+is 130nm fast?
+yes it is ,
+here are two examples:
+
+![Screenshot (187)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c1849600-fda9-4a21-947f-45e0bc84ae4c)
+
+
+
+
 
 
 
