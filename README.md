@@ -350,6 +350,8 @@ so for this problem we have two solutions :
  <details>
  <summary> Get familiar to Open-source EDA tools  </summary>
 
+ ### openlane Directory structure 
+
 Sky 130A is pdk variant
 which has two sub directries 
 
@@ -374,6 +376,15 @@ we will be working on pdk variant called sky130_fd_sc_hd
 
 ![Screenshot from 2023-09-09 16-02-27](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/cf9c5c18-c378-48ca-b00a-d941e9db811e)
 
+
+### Design Preperation step
+
+
+commands for openlane:
+
+> docker
+
+> ./flow.tcl -interactive
 
 
 
