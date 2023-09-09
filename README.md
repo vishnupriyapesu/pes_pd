@@ -161,9 +161,32 @@ chip Floor planning: partition the chip die between different system building bl
 
 
 
-placement
-clocl tree synthesis
-routing 
+3.**placement**
+
+placements are done in tw steps:
+--> global placemnts find optimal positions for old cells,cells may overlap
+
+--> Detailed placements
+
+
+4.**clocl tree synthesis**:
+
+--> To deliver the clock to all sequential elements (e.g., FF) with minimum skew And in agood shape
+
+-->Tree(H,X,...)
+
+
+5. **routing**
+
+--> implement the interconnect using the available metal layers
+
+--> Metal tracks form a routing grid
+
+--> Routing grid is huge 
+
+--> Divide and Conquer
+-- Global Routing:Generates routing guides 
+--Detailed Routing : Uses the Routing guides to implement the actual wiring
 sign off
 
 
