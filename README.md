@@ -322,9 +322,19 @@ This is done by using **yosys**
 
 so for this problem we have two solutions :
 
+
+
 1.Bridging attaches ahigher layer intermediary (requires Router awareness)
 
+
 2. Add antenna diode cell to leak away charges (Antenna diodes are provides by the SCL)
+
+- Add a fake Antenna Diode next to every cell input after placement
+
+
+- Run the Antenna checker (Magic) in the routed layout
+
+- if the checker reports a Violation on tthe cell input pin,replace the Fake Diode cell bu a real one
 
 
 
