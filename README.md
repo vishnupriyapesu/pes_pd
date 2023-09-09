@@ -107,8 +107,17 @@ Macros : pure digital logic
 
 **Process Design Kit(PDK)**: 
 
-In the field of semiconductor manufacturing, a PDK is a set of files and data used by semiconductor designers to create and verify the physical layout of an integrated circuit (IC) on a silicon wafer.
-It includes information about the fabrication process, device models, and design rules
+> In the field of semiconductor manufacturing, a PDK is a set of files and data used by semiconductor designers to create and verify the physical layout of an integrated circuit (IC) on a silicon wafer.
+> It includes information about the fabrication process, device models, and design rules
+
+
+> PDK is the interface between fabrication and the designer
+
+
+> google worked out an agreement with sky water the open source PDK for the 130nm process by skywater
+
+> june 30 2020 google relewased first ever PDK open source
+
 
 
 
