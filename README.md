@@ -294,6 +294,40 @@ OpenLANE has two modes of operation:
 
 
 
+**Logic Equivalence Check(LEC)**:
+
+This is done by using **yosys**
+
+
+
+>  Every time the netlist is modified ,verification must be performed
+
+- CTS modifies the netlist
+
+- post placement  optimizations modifies the netlist
+
+
+
+> LEC is ude3s to formally confirm that the function did not change after modifying the netlist
+
+
+
+**Dealing with Antenna Rules Violations**
+
+>  When ametal wire segment is fabricated ,it can act as an antenna.
+
+- Reactive ion etching causes charge to accumulate on the wire
+
+- Transistore gates can be damagedc during fabrication
+
+
+
+
+
+
+
+
+
 
 
 
