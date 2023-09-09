@@ -254,7 +254,6 @@ striVes has different members :
 
 
 
-
 > The main goal of OpenLANE is to produce NO LVS violations , NO DRC violations and timing violations
 
 
