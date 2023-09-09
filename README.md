@@ -128,6 +128,49 @@ here are two examples:
 ![Screenshot (187)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c1849600-fda9-4a21-947f-45e0bc84ae4c)
 
 
+### simplified ASIC design flow:
+
+![Screenshot (188)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/ed8c20fc-a6ac-4685-b23c-d92cd12742d0)
+
+1. **synthesis**:
+> coverts RTL to a circuit out of components from the standard cell library(SCL)
+
+![Screenshot (190)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/767567d2-fcae-4695-b640-e8a096ca7893)
+
+> standard cells,each cell has different views/models
+
+--> Electrical, HDL,SPICE
+
+--> Layout (Abstract and Detailed)
+
+
+2. **floor /power planning**:
+
+
+it depends on whether we are implementing the single component (MacroFloor planning)or whole chip(chip Floor planning)
+
+macro Floor planning : Dimensions, pin locations,rows definition
+
+![Screenshot (192)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/9917b9e9-f970-4233-b6ea-7462d67d0882)
+
+
+
+chip Floor planning: partition the chip die between different system building blocks and place the I/O pads
+
+![Screenshot (193)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/0cf29d23-1247-4fbf-9223-ea32c1d6fd4c)
+
+
+
+placement
+clocl tree synthesis
+routing 
+sign off
+
+
+
+
+
+
 
 
 
