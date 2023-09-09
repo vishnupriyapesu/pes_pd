@@ -350,6 +350,26 @@ so for this problem we have two solutions :
  <details>
  <summary> Get familiar to Open-source EDA tools  </summary>
 
+Sky 130A is pdk variant
+which has two sub directries 
+
+1. lib.ref : all the processor specific files
+
+we will be working on pdk variant called sky130_fd_sc_hd
+
+- sky130  : is the process name 
+
+- fd : skywater foundary
+
+- sc : standard cell
+
+- hd(high density) : variant of pdk
+
+2. lib.tech :specific to the tool
+
+
+ 
+
 
 
 
