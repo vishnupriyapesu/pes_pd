@@ -189,11 +189,33 @@ placements are done in tw steps:
 --> Divide and Conquer
 
 
--- Global Routing:Generates routing guides 
+-- **Global Routin**g:Generates routing guides 
 
 
---Detailed Routing : Uses the Routing guides to implement the actual wiring
-sign off
+-- **Detailed Routing** : Uses the Routing guides to implement the actual wiring
+
+
+6. **sign off**
+
+
+--> **physical Verifications**
+
+--Design rules Checking(DRC)
+
+
+--Layout vs.Schematic(LVS)
+
+
+-->**Timimg Verification**
+
+
+--Static Timing Analysis
+
+
+
+
+
+
 
 
 
