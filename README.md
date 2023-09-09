@@ -84,7 +84,7 @@ Macros : pure digital logic
 
 
 
-example:clock 
+**Example:clock**
 
 ![Screenshot (181)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d5d9eeac-e267-49fa-a5a2-ba479e3730ce)
 
