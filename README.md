@@ -280,6 +280,19 @@ OpenLANE has two modes of operation:
 
 
 
+**Design For Test(DFT)**
+
+> Scan Insertion
+
+> Automatic Test Pattern Generation(ATPG)
+
+> Test Patterns Compaction
+
+> Fault Coverage
+
+> Fault Simultion
+
+
 
 
 
