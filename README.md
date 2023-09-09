@@ -98,7 +98,17 @@ Macros : pure digital logic
 
 ### Introduction to all components of open-source digital asic design
 
+**open source digital asic design**
 
+
+![Screenshot (185)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/dbdd9025-835f-4ca5-8c54-b08c3c323585)
+
+
+
+**Process Design Kit(PDK)**: 
+
+In the field of semiconductor manufacturing, a PDK is a set of files and data used by semiconductor designers to create and verify the physical layout of an integrated circuit (IC) on a silicon wafer.
+It includes information about the fabrication process, device models, and design rules
 
 
 
