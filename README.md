@@ -251,6 +251,10 @@ striVes has different members :
 6. striVe 6 : striVe 2 with DFT
 
 
+![Screenshot (195)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/2860f943-a999-467e-9d83-35c8c37ebb62)
+
+
+
 
 > The main goal of OpenLANE is to produce NO LVS violations , NO DRC violations and timing violations
 
