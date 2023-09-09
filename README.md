@@ -260,8 +260,7 @@ striVes has different members :
 
 > OpenLANE Tuned for SkyWater 130n Open PDK
 
-
-> OpenLANE has two modes of operation:
+OpenLANE has two modes of operation:
 
 -- Autonomous or interactive
 
