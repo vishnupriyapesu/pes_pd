@@ -368,6 +368,7 @@ we will be working on pdk variant called sky130_fd_sc_hd
 2. lib.tech :specific to the tool
 
 
+
  
 
 
