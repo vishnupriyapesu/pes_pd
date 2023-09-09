@@ -164,6 +164,8 @@ chip Floor planning: partition the chip die between different system building bl
 3.**placement**
 
 placements are done in tw steps:
+
+
 --> global placemnts find optimal positions for old cells,cells may overlap
 
 --> Detailed placements
@@ -185,7 +187,11 @@ placements are done in tw steps:
 --> Routing grid is huge 
 
 --> Divide and Conquer
+
+
 -- Global Routing:Generates routing guides 
+
+
 --Detailed Routing : Uses the Routing guides to implement the actual wiring
 sign off
 
