@@ -65,8 +65,28 @@ Macros : pure digital logic
 ![pd8](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5b59a5bc-328d-464d-b3ca-56bc98a9dac8)
 
 
+### From software Application to hardware
+
+![Screenshot (182)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e26f7e75-d474-40ac-9198-7e1f7bb8582b)
 
 
+> c or any other language converted in to assembly level language by complier then assembly in turn converted in to binary code which hardware can understand
+
+
+> there are two main interface
+
+
+1. instructions (also called architecture of computer)
+
+2.assembler,which converts assembly level to binary code
+
+
+
+
+
+example:clock 
+
+![Screenshot (181)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d5d9eeac-e267-49fa-a5a2-ba479e3730ce)
 
 
 
