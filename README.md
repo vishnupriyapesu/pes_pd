@@ -213,7 +213,61 @@ placements are done in tw steps:
 
 
 
+### Intoduction to openLANE and Strives chipsets
 
+The problem is tougher when using Open source EDA
+
+
+> Tools Qualificationa
+
+> Tools Calibration
+
+> Missing tools
+
+
+
+
+**OpenLANE**
+
+> Started as an Open Source Flow for a True Open Source Tape-out Experiment
+
+> striVe is a family of Open everything SoCs
+
+-- Open PDK, Open EDA,Open RTL
+
+
+striVes has different members :
+
+1. striVe : Sky 130 SCL + Synthesized 1Kbytes SRAM
+
+2. striVe 2 : Sky 130 SCL +  1Kbytes Open RAM block
+
+3. striVe 2a : striVe 2 with a single chip core module
+
+4. strive 3 : OSU SCL + Synthesized 1Kbytes SRAM
+
+5. striVe 5 : Sky 130 SCL + 8 x 1 Kbytes openRAM banks
+
+6. striVe 6 : striVe 2 with DFT
+
+
+
+> The main goal of OpenLANE is to produce NO LVS violations , NO DRC violations and timing violations
+
+
+
+> OpenLANE Tuned for SkyWater 130n Open PDK
+
+
+> OpenLANE has two modes of operation:
+
+-- Autonomous or interactive
+
+-- DesignSpace Exploration: find the best set of flow configuration
+
+
+
+> OpenLANE has more number of design examples there are 43 design with their best configuration
 
 
 
