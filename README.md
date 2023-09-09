@@ -380,7 +380,12 @@ we will be working on pdk variant called sky130_fd_sc_hd
 ### Design Preperation step
 
 
-commands for openlane:
+
+ after installing the openlane flow
+
+ go to the terminal and run following command for access the openlane:
+
+ > cd/desktop/works/tools/workshop_openlane_dir/openlane
 
 > docker
 
