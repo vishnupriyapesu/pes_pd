@@ -90,6 +90,15 @@ Macros : pure digital logic
 
 
 
+</details>	
+	
+ <details>
+ <summary> SoC Design and OpenLANE  </summary
+
+
+
+
+
 
 
 
