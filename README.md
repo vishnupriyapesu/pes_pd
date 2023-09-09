@@ -339,6 +339,17 @@ so for this problem we have two solutions :
 
 
 
+**Static Timing Analysis :**
+
+> RC Extraction : DEF2SPEF
+
+> STA: openSTA (openROAD)
+
+</details>	
+	
+ <details>
+ <summary> Get familiar to Open-source EDA tools  </summary>
+
 
 
 
