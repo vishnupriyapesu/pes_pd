@@ -312,13 +312,19 @@ This is done by using **yosys**
 
 
 
-**Dealing with Antenna Rules Violations**
+**Dealing with Antenna Rules Violations:**
 
 >  When ametal wire segment is fabricated ,it can act as an antenna.
 
 - Reactive ion etching causes charge to accumulate on the wire
 
-- Transistore gates can be damagedc during fabrication
+- Transistore gates can be damaged during fabrication
+
+so for this problem we have two solutions :
+
+1.Bridging attaches ahigher layer intermediary (requires Router awareness)
+
+2. Add antenna diode cell to leak away charges (Antenna diodes are provides by the SCL)
 
 
 
