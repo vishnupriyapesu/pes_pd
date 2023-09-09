@@ -401,14 +401,17 @@ we will be working on pdk variant called sky130_fd_sc_hd
 
 
 
+![Screenshot from 2023-09-09 22-14-04](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/8113bfae-c09e-4e24-ac7a-0f7825e02d05)
 
 
 
 
+![Screenshot from 2023-09-09 22-14-35](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/73b39a21-749b-48b2-a612-a2f70cae03cf)
+
+### review files after design and run synthesis
 
 
-
-
+![Screenshot from 2023-09-09 22-15-40](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/54068f86-6344-4a54-8e80-46ba7f3a6c06)
 
 
 
