@@ -271,6 +271,20 @@ OpenLANE has two modes of operation:
 > OpenLANE has more number of design examples there are 43 design with their best configuration
 
 
+### Introduction to OpenLANE detailed ASIC design flow
+
+![Screenshot (196)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e3d53506-ef0e-4020-a950-33ae9aff0e95)
+
+
+![Screenshot (197)](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/ac9d7579-40e5-4c39-9efd-64748a9f175b)
+
+
+
+
+
+
+
+
 
 
 
