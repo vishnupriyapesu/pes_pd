@@ -431,6 +431,8 @@ we will be working on pdk variant called sky130_fd_sc_hd
 ![Screenshot from 2023-09-10 16-40-56](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e49811bd-91ce-43dd-99d0-394689276fb2)
 
 
+**we will calculate filflops ratio**
+
 
 </details>
 
