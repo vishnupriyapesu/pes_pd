@@ -439,3 +439,5 @@ we will be working on pdk variant called sky130_fd_sc_hd
  <details>
  <summary> Chip Floor planning considerations  </summary
 
+ ### Utilization factor and aspect ratio
+
