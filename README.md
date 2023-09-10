@@ -435,3 +435,7 @@ we will be working on pdk variant called sky130_fd_sc_hd
 </details>
 
 # Day-2 Good floorplan vs bad floorplan and introduction to library cells
+
+ <details>
+ <summary> Chip Floor planning considerations  </summary
+
