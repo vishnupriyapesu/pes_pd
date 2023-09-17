@@ -483,4 +483,29 @@ aspect ratio=(height)/(width)
 ### pre-placed cells
 
 
+![Untitled4](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/af7b7365-e798-4e33-a7da-7bb1de82ede3)
+
+
+
+![Untitled5](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/dad5dcf7-c7c5-4571-92fb-8cb3578790c9)
+
+
+
+similarly there are ither IP's available
+
+- memory
+
+- clock gating cell
+
+- camparator
+
+-mux
+
+
+> the arrangement of these IP's  is reffered as floorplanning
+
+> these IP's have user defined locations ,and hence are placed  in chip before automated placement -and-routing and are called **pre-placed cells**
+
+>  Automated placement and routing tools places the remaining logical cells in the design onto chip
+
 
