@@ -542,3 +542,9 @@ Noise margin Graph
 **no switching activities are missed** by using decoupling capacitor
 
 
+
+### power planning
+
+
+
+
