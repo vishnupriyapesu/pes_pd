@@ -766,3 +766,31 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 ![11](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/3a90cc15-4ea0-488f-847a-3d3edb95a692)
 
 
+**Use defined specs**
+
+- cell height -- seperation between the power grill and ground grill(Dry strenghth) should be maintained
+
+![12](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/15b04593-6d9c-4de7-bfc4-5afa55271cce)
+
+- supply voltage : take care of noise margin level with resppect to voltage
+
+- Metal layers
+- 
+![13](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fa182eff-d76b-4205-818d-26044fc5608c)
+
+- pin location
+
+- Drawn gate-length
+
+
+**2)Design Steps :** Circuit design,layout design,characterization
+
+![14](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/964b5148-5fdc-47e9-997e-a4fcba047298)
+
+**3)outputs:** circuit description language
+
+
+
+
+
+
