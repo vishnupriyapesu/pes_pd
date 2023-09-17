@@ -727,3 +727,15 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 
 ![9](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5ade5dfc-216d-4366-9c4c-0cd72f871857)
 
+
+
+
+### congestion aware placement using RePlAce 
+
+
+![Screenshot from 2023-09-17 20-12-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/eef5d057-2790-4eae-9861-4126580a0b71)
+
+
+
+![Screenshot from 2023-09-17 20-13-09](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6a2a1c0c-ea18-4fcc-8fae-4f361ffbf696)
+
