@@ -459,3 +459,12 @@ minimum area requires for nelist given above
  
 ![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fa5a3fd9-8942-47f0-86c0-9a8f3f7edf0a)
 
+
+utilization factor =(areaoccupied by netlist)/(Total area of the core)
+
+
+for the above netlist there is 100 % utilization and utlization factor is 1
+> if this  the case we cannot add extra components to the die since there is no spcae in die (i.e., utlization is 100%)
+
+
+> so in many cases we will keep utilization factor approximately 0.5 or 0.6.
