@@ -585,6 +585,8 @@ in this case all the charged capacitior should discharge and discharged should b
 
 we can solve this using multiple power supply
 
+> by using multiple power supplies capacitors takes current from nearest power supply and dump the current to the nearest ground
+
 
 
 ![Untitled8](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5dcec9e9-c056-4256-b686-753c8b749317)
