@@ -629,6 +629,16 @@ ordering of input and output ports are random
 
 
 
+now to acsess the layout design we need to follow the following commands
+
+
+-  /Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-09_11-57/results/floorplan
+
+-  less picorv32a.floorplan.def
+
+- shift q
+
+- magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 
 
 
