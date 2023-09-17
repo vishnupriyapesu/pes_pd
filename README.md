@@ -661,7 +661,13 @@ now to acsess the layout design we need to follow the following commands
 </details>
 
 <details>
-<summary> Library Binding and initial place design </summary>
+<summary> Library Binding and placement </summary>
+
+### netlist binding and initial place design
+
+Library --it contains informsation of delay of gates,shapes andsize of the cells
+
+larger the size least is resistance 
 
 
 
