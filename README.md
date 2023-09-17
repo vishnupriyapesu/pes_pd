@@ -676,6 +676,12 @@ Library --it contains informsation of delay of gates,shapes andsize of the cells
 
 larger the size least is resistance 
 
+**placing netlist on to the floorplan**
+
+![5](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/98aa6adc-6ced-46a3-94d5-97256a8f2f1f)
+
+
+
 
 
 
