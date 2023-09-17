@@ -443,3 +443,19 @@ we will be working on pdk variant called sky130_fd_sc_hd
 
  ### Utilization factor and aspect ratio
 
+ **Define width and height of core and die**
+
+ 
+ 
+![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/89e7c398-e484-48ed-9d72-3ca319762fcb)
+
+minimum area requires for nelist given above
+
+![Untitled2](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/792a84ef-1036-4cac-9c1a-f89f1ca53f79)
+
+
+ calculating  area occupied by the above netlist on a silicon  wafer
+
+ 
+![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fa5a3fd9-8942-47f0-86c0-9a8f3f7edf0a)
+
