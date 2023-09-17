@@ -850,6 +850,8 @@ outrise threshold:generally take 50% of output waveform
 
 ### propagation delay and transition delay
 
+#### propogation delay
+
 
 ![21](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1dab8904-3c32-46dd-91ab-1b4fcb31244c)
 
@@ -870,3 +872,7 @@ outrise threshold:generally take 50% of output waveform
 
 
 ![25](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5167cb0b-9ad9-42c8-9a31-081c4dacb794)
+
+
+
+#### transition delay
