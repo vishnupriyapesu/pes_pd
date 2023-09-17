@@ -828,4 +828,25 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 
 ### Timing threshold definitions
 
+threshold point of waveforms
+
+**two inverters back to back**
+
+![19](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/14bd6b9f-523b-41bd-b104-5bd984628fda)
+
+
+slew low rise threshold: defines the point towards the lower side of power supply.Typical value is 20
+%
+
+slew high rise threshold: defines the point towards the higher side of power supply.Typical value is 20
+%
+
+in rise threshold:generally take 50% of input waveform
+
+outrise threshold:generally take 50% of output waveform
+
+
+![20](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7b691f03-c72a-4b6a-b727-1f93017380bc)
+
+
 
