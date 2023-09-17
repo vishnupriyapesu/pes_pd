@@ -546,6 +546,21 @@ Noise margin Graph
 ### power planning
 
 
+after solving the problem current demand  using de-coupling 
+now we have problem of signal power supply ,i.e.,
+
+if a particular macro is repeated multiple times on chip then the current demand for each and every elemt of macro
+
+![Untitled3](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/435a7f46-0568-4c5b-a2b8-a4f123ca1358)
+
+
+- assume signal(0-1) has been sent from driver to load
+
+- we should make sure that load is receiving the same signal from driver
+
+![Untitled4](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d1fe97ee-2e23-4ae8-a185-e2b10d5f0a4d)
+
+
 
 
 
