@@ -597,3 +597,13 @@ we can solve this using multiple power supply
 
 
 
+### pin planning
+
+
+ordering of input and output ports are random
+
+
+
+
+
+
