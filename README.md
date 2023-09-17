@@ -561,8 +561,36 @@ if a particular macro is repeated multiple times on chip then the current demand
 ![Untitled4](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d1fe97ee-2e23-4ae8-a185-e2b10d5f0a4d)
 
 
+NOTE: we sont have any decoupling capacitor in the path from driver to load 
 
 
+> assume 16 bit bus is connected to inverter
+
+in this case all the charged capacitior should discharge and discharged should be charged
+
+
+![Untitled5](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/19b41112-dc22-485b-94b3-84e1ebaf61e6)
+
+
+![Untitled6](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/12682a9b-2d8f-4333-87df-ce188601db3d)
+
+> in the above case all the charged capcitor are discharging at the same time and having same ground ,here we can see **ground bounce** and , it either goes to 1 or 0 which not predictable
+
+![Untitled7](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fe53bf89-4543-41d2-a84e-719433b32191)
+
+
+> in the above case all the discharges capacitor are charging at the same time and they have only one power supply so we can see **voltage bounce**
+
+**problem is due to singal power supply**
+
+we can solve this using multiple power supply
+
+
+
+![Untitled8](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5dcec9e9-c056-4256-b686-753c8b749317)
+
+
+![Untitled9](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/77369ad2-c7d1-418e-a1e3-0a5233032a07)
 
 
 
