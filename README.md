@@ -739,3 +739,9 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 
 ![Screenshot from 2023-09-17 20-13-09](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6a2a1c0c-ea18-4fcc-8fae-4f361ffbf696)
 
+
+</details>
+<details>
+<summary>cell design and characterization flow</summary>
+
+
