@@ -516,7 +516,11 @@ similarly there are ither IP's available
 ![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/2131e526-9a01-4529-9b6d-f8e3fe8a09f0)
 
 
-- During switching operation, the circuit demands switching current  i.e., peak current 
+- During switching operation, the circuit demands switching current  i.e., peak current
+
+- due to the presence ofRdd and Ldd there will be a voltage drop across them and the voltage atnode'A' would be Vdd
+
+  
 Noise margin Graph
 
 
