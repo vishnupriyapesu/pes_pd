@@ -456,8 +456,8 @@ minimum area requires for nelist given above
 
  calculating  area occupied by the above netlist on a silicon  wafer
 
- 
-![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fa5a3fd9-8942-47f0-86c0-9a8f3f7edf0a)
+ ![Untitled3](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/73dd995b-fe4a-4a24-aa1d-3cddcf8ee056)
+
 
 
 utilization factor =(areaoccupied by netlist)/(Total area of the core)
