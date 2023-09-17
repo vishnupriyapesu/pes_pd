@@ -867,7 +867,8 @@ outrise threshold:generally take 50% of output waveform
 - case where threshold are choosen in a right way but circuit design is not in proper way
 
 
-![24](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/dc192550-7878-4ea7-9191-a3481809dcde)
+![26](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/8a0c2370-b9f1-4d56-a791-fc5781d301de)
+
 
 
 
@@ -876,3 +877,14 @@ outrise threshold:generally take 50% of output waveform
 
 
 #### transition delay
+
+
+![27](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7f6d3884-94e2-430d-8007-a6cc1e968307)
+
+
+
+![28](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/aa634a66-ad47-4765-a83d-085c56b1bcb6)
+
+
+
+![29](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b96e44fc-219f-4c6a-b1e3-7888bcdb3c8f)
