@@ -664,6 +664,13 @@ now to acsess the layout design we need to follow the following commands
 <summary> Library Binding and placement </summary>
 
 ### netlist binding and initial place design
+![Untitled2](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/841327a2-722f-45b3-819d-539fd0ffcaa0)
+
+![3](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/ac7cafe2-94cd-4503-abf8-a24e997f3bd2)
+
+
+![4](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/a4b8bae4-3795-4412-92e8-25a6007b34ce)
+
 
 Library --it contains informsation of delay of gates,shapes andsize of the cells
 
