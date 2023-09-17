@@ -888,3 +888,11 @@ outrise threshold:generally take 50% of output waveform
 
 
 ![29](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b96e44fc-219f-4c6a-b1e3-7888bcdb3c8f)
+
+
+
+# Day-3 Design library cell using Magic Layout and ngspice characterization
+
+</details>
+<details>
+<summary>Labs for CMOS inverter ngspice simulations</summary>
