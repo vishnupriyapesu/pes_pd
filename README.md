@@ -468,3 +468,13 @@ for the above netlist there is 100 % utilization and utlization factor is 1
 
 
 > so in many cases we will keep utilization factor approximately 0.5 or 0.6.
+
+
+
+**aspect ratio**
+
+
+aspect ratio=(height)/(width)
+
+
+> here for above netlist aspect ratio is 1 whuch signifies that the chip is square shaped .id ratio is other than 1 then chip is rectangle shaped.
