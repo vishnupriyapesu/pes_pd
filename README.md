@@ -822,3 +822,10 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 ![18](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/258ff183-c124-4308-aa10-d40f812620bc)
 
 
+</details>
+<details>
+<summary>General timimg characterization parameter</summary>
+
+### Timing threshold definitions
+
+
