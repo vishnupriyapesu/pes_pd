@@ -787,7 +787,10 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 
 ![14](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/964b5148-5fdc-47e9-997e-a4fcba047298)
 
-**3)outputs:** circuit description language
+
+![15](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e77f458a-3763-48ad-87ae-74754a2a2112)
+
+**3)outputs:** circuit description language,GDS2 ,LEF,extracted spice netlist(.cir),Timing ,noise ,power .libs,function
 
 
 
