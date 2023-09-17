@@ -510,3 +510,31 @@ similarly there are ither IP's available
 >  Automated placement and routing tools places the remaining logical cells in the design onto chip
 
 
+### de-coupling capacitor 
+
+
+![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/2131e526-9a01-4529-9b6d-f8e3fe8a09f0)
+
+
+- During switching operation, the circuit demands switching current  i.e., peak current 
+Noise margin Graph
+
+
+![Untitled1](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/24c9d75e-692d-442b-b8e9-6aab437bda58)
+
+- any voltage lies between vOL to VIL ----logic 0
+
+
+- any voltage lies between VOH to VIH ----logic 1
+
+- in the undefined region any voltage can go either areas (0 or 1) which is danger(grey area).so in this we have problem of large physical distance ,here comes the concept of **De-coupling**
+
+> De-coupling capacitors are huge capacitors filled with charge
+
+
+> as name says decoupling it de couples circuit from main supply
+
+
+**no switching activities are missed** by using decoupling capacitor
+
+
