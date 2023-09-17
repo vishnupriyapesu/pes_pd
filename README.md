@@ -704,10 +704,26 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 - output of logic synthesis is arrangement of gates  representing the original functionality using RTL
 
 
+2) **Floorplanning**: import the output of logic synthesis
+
+- decide the size and shape of core and die
+
+3) **placement**:logic cells in logic synthesis are placed on the chip
+
+4) **clock tree synthesis**: clock signal reaching every point of cells
+
+5) **Routing**
+
+6) **static time analysis**:set up time, whole time ,maximum acheivable frequency of circuit
+
+
+![7](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/99a61ef2-797f-4c8b-b030-42461ff4a7e3)
 
 
 
+![8](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/46d0e20d-8a57-4b74-b031-dfd41c150ead)
 
 
 
+![9](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/5ade5dfc-216d-4366-9c4c-0cd72f871857)
 
