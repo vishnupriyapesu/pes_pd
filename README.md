@@ -652,6 +652,10 @@ now to acsess the layout design we need to follow the following commands
 
 
 
+![Screenshot from 2023-09-17 18-26-35](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/109e3682-13aa-4529-ada8-053a49661462)
+
+
+![Screenshot from 2023-09-17 18-28-09](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/858c6fd0-b8d5-4780-a6d9-c5b5155051f2)
 
 
 
