@@ -792,8 +792,33 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 
 **3)outputs:** circuit description language,GDS2 ,LEF,extracted spice netlist(.cir),Timing ,noise ,power .libs,function
 
+### Typical characterization flow
+
+1) read model files
+
+2) read extracted spice netlist
+
+3) define behaviour of buffer
+
+4) read sub circuit of cell
+
+5) attach the neccessary pwer sources
+
+6) apply the stimulus
+
+7) providing neccessary output capacitance
+
+8) necessary stimulation command
+
+
+![16](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/ee406128-9df3-4eb7-9c05-38d08fec7a9a)
 
 
 
+![17](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6e146a8c-e2ff-4d2e-ba7a-1cf5b462a64e)
+
+
+
+![18](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/258ff183-c124-4308-aa10-d40f812620bc)
 
 
