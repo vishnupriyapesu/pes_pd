@@ -681,6 +681,32 @@ larger the size least is resistance
 ![5](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/98aa6adc-6ced-46a3-94d5-97256a8f2f1f)
 
 
+sice there huge distance between the some flipflops we can fix it by optimizing
+
+
+
+### optimize placement using estimated wire length and capacitance
+
+here comes the concept of repeaters to minmize the distance between flipflop 
+
+Repeaters are buffer which recondition the original signal ,replicated original signal and send so that the integrity of the signal remains same but there is lose of area.
+
+
+![6](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e2b7c34d-dfc5-4129-9830-18d9cd003d72)
+
+
+### Need for characterization
+
+**design flow for implementing design on to chip**
+
+1) **logic synthesis** :convert functionality in to legal hardware.
+
+- output of logic synthesis is arrangement of gates  representing the original functionality using RTL
+
+
+
+
+
 
 
 
