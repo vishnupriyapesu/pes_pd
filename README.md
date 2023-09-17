@@ -744,4 +744,25 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 <details>
 <summary>cell design and characterization flow</summary>
 
+ ### inputs for cell design flow
+
+ ![10](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/89f0cb28-da4d-4f69-9474-b92044a9d54a)
+
+
+ cell design flow has 3 parts 
+
+ 1) Inputs
+
+ 2) Design steps
+
+ 3) Outputs
+
+
+**1) Inputs:** Process design kits
+
+
+- DRC and LVS rules ,SPICE models,library and user defined specs
+
+![11](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/3a90cc15-4ea0-488f-847a-3d3edb95a692)
+
 
