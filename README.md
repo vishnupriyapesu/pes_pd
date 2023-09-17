@@ -611,7 +611,20 @@ ordering of input and output ports are random
 ### steps to run flooeplan using openLANE
 
 
+![Screenshot from 2023-09-17 16-12-49](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/bbbb77b4-eff2-44e2-9418-3c2f43912534)
 
 
+
+
+![Screenshot from 2023-09-17 16-06-59](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/23a54bfd-0cd1-4d09-adc6-3450de2a9754)
+
+
+
+
+![Screenshot from 2023-09-17 16-08-05](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fb49d854-1003-49a8-abf2-2e6ebedf9a1a)
+
+
+
+![Screenshot from 2023-09-17 16-11-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/bc4ece4f-db54-463d-809c-f3d391673ff5)
 
 
