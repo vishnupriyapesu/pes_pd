@@ -896,3 +896,8 @@ outrise threshold:generally take 50% of output waveform
 </details>
 <details>
 <summary>Labs for CMOS inverter ngspice simulations</summary>
+
+### IO placer revision
+
+
+
