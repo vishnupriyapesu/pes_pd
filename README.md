@@ -991,6 +991,60 @@ magic -T sky130A.tech sky130_inv.mag &
 ### create Active regions
 
 
+**16 mask CMOS process**
+
+
+1)selecting a substrate: Ptype silicon substarte (high resistivity (5~50 ohms),doping level(10^15 cm^-3),orientation 100)
+
+
+- doping level mained low than well doping
+
+
+
+2) creating active region for transistors:
+
+-silicon di oxide(~40nm sio2)
+
+
+-depoist layer silicon nitride(~80nm si3n4)
+
+
+- depoist photoresist(1um )
+
+![37](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/24c09664-156e-495d-8d4d-f0e5bc66a515)
+
+  
+
+-  next up on the photoresist material apply mask 1
+
+where ever ther is mask the uv light will not reach 
+
+the area which area protected by the mask will be washed out
+
+![44](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/baa40c4e-d817-43aa-a979-47bd4d45b5a9)
+
+![38](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/9fbb5c4a-ed7e-4af5-bfb1-aaabc8e076c3)
+
+- removal of mask
+![39](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1c5413c6-bd05-4086-9f41-d44d96b58296)
+
+- si3n4 etched
+![40](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/60102e53-931b-41eb-966c-c7be90d3fe21)
+
+- removal of photoresistor because the si3n4 acts as protection layer
+![41](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/981b4a45-f341-47ec-b218-707f2b6ae40a)
+
+- furnace
+![42](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/dbd15f87-75df-427f-a244-5135d89b80a3)
+
+- LOcal oxodation of silicon called **locos**
+![43](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/f34e0e56-dc8d-47ce-ac55-0d6a5aea1c19)
+
+- si3N4 etched by hot phosphoric acid
+
+
+
+
 
 
 
