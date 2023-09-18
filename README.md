@@ -958,6 +958,9 @@ complete description of NMOS and PMOS:   .LIB "tsmc_025um_model.mod" CMOS+MODELS
 ![35](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/8d0dc63b-1980-40a8-a3ad-6de69ed3ee7f)
 
 
+### static and dynamic simulation of CMOS inverter
+
+
 
 
 
