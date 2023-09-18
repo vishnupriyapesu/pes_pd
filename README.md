@@ -981,3 +981,13 @@ magic -T sky130A.tech sky130_inv.mag &
 
 
 ![Screenshot from 2023-09-18 07-54-02](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b98b6191-232c-420c-822b-a7497a030ceb)
+
+
+
+</details>
+<details>
+<summary>Inception of Layout CMOS fabrication</summary>
+
+### create Active regions
+
+
