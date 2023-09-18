@@ -1061,6 +1061,27 @@ the area which area protected by the mask will be washed out
 ![48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/48619e6d-1475-4948-a813-1a16835f542d)
 
 
+4)Formation of Gate: photolithography
+
+5)Lightly Doped Drain Formation(LDD):
+
+6)Source and Drain Formation
+
+7)Steps to form Contacts and Interconnects(local)
+ 
+ tiN etched off by ussing RCA cleaning :
+
+
+ - deionized water
+
+ - Ammonium hydroxide (NH4oH)
+
+ - Hydrogen peroxide (H2o2)
+
+8) Higher Level Metal Formation
+
+
+
 
 
 
