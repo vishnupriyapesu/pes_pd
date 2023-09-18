@@ -920,9 +920,42 @@ to cahnge the io pin configuration :
 
 ![31](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/071b3a78-14a5-4ef4-8348-8fb71dea6a92)
 
+![33](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b1a4dd97-835d-45d5-b6e0-e5fa664d82c8)
 
 
-![32](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/82162649-1160-40a2-8b81-38398ef83fbf)
+- Cload ,connected between output and 0,the value of cload is 10f
+
+- supply voltage connected between 0 and 2.5
+
+- input voltage connected 0 and 2.5
+
+ **simulation command**
+- .op
+
+-.dc vin 0 2.5 0.05
+
+
+complete description of NMOS and PMOS:   .LIB "tsmc_025um_model.mod" CMOS+MODELS
+
+-  .end
+
+
+**SPICE waveform**
+
+![34](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/08fb9eda-c8e9-4619-b5b1-8cecdc35ae60)
+
+
+
+- PMOS is bigger in size than NMOS
+
+- shapes of wavefoems are same
+
+- switching threshold ,Vin = Vout
+
+- we can observe in to above waveform at the intersection both NMOS and PMOS are insaturation region,where in there are high chances of leakage
+
+
+![35](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/8d0dc63b-1980-40a8-a3ad-6de69ed3ee7f)
 
 
 
