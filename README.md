@@ -939,7 +939,7 @@ complete description of NMOS and PMOS:   .LIB "tsmc_025um_model.mod" CMOS+MODELS
 
 -  .end
 
-
+### switching threshold Vm
 **SPICE waveform**
 
 ![34](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/08fb9eda-c8e9-4619-b5b1-8cecdc35ae60)
