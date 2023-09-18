@@ -1112,13 +1112,43 @@ to copy the parasitic capacitance we do **ext2spice cthresh 0 rthresh 0**
 We can observe sky130_inv.ext file is created
 
 
+</details>
+
+<details>
+<summary> Sky130 Tech File Labs</summary>
+
+### Lab Steps to create final SPICE deck using sky130 tech
+
+![Screenshot from 2023-09-18 13-51-16](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/375c2058-04d7-4f36-9ad8-62782443a1e8)
+
+press g for grid
+
+![Screenshot from 2023-09-18 13-52-43](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/0eda826e-8686-48e1-b49f-7e309ecef8c5)
+
+
+to acess the spice file 
+
+ - gedit sky130_inv.spice
+
+![Screenshot from 2023-09-18 13-55-00](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b8b4936f-2f35-41ad-8279-0b141d442fee)
 
 
 
+### Lab Steps to characterize  inverter using sky130 model files
+
+ngspice sky130_inv.spice : to access the ngspice file
+
+![Screenshot from 2023-09-18 14-01-16](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/11c377d7-e790-48e3-9676-3cd0cd71ba0b)
 
 
 
+![Screenshot from 2023-09-18 14-06-11](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/61142445-036d-440f-bd1b-dcca20760c4f)
 
 
+for plotting: plot y vs time a
 
+![Screenshot from 2023-09-18 14-12-31](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/648d1d8e-2a20-4221-991f-d74a901df5f5)
+
+
+![Screenshot from 2023-09-18 14-18-05](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/aab7dded-909b-46aa-b372-d01c61cc90dc)
 
