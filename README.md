@@ -905,3 +905,26 @@ to cahnge the io pin configuration :
 ![Screenshot from 2023-09-18 05-51-12](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/30493a87-5f2c-43e4-9a6d-196620ef10be)
 
 ![Screenshot from 2023-09-18 05-54-11](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/bb01be30-8c2c-42eb-9fbd-b789bd5512a1)
+
+
+
+### Spice deck creation for CMOS inverter
+
+**SPICE deck**
+
+-it contains connectivity information about netlist,inputs to the stimulation,tap points and outputs
+
+![30](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/68a04d74-d01b-4ec3-a6cf-339f3087a47c)
+
+
+
+![31](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/071b3a78-14a5-4ef4-8348-8fb71dea6a92)
+
+
+
+![32](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/82162649-1160-40a2-8b81-38398ef83fbf)
+
+
+
+
+
