@@ -1082,6 +1082,34 @@ the area which area protected by the mask will be washed out
 
 
 
+### lab introduction to Sky130 basic layers layout and LEFusing inverter
+
+
+
+![Screenshot from 2023-09-18 12-01-06](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/0d303aca-29a1-4203-91cb-6a12c9c1c787)
+
+to check the error in the layout
+
+- drc--->drc find error
+
+- in tkcon.tcl it shows the error
+
+- 
+![Screenshot from 2023-09-18 12-10-23](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/336d65eb-acfc-4ad6-8974-09c5c453d59a)
+
+
+  to access the spice netlist(in tkcon.tcl):
+  
+
+  
+![Screenshot from 2023-09-18 12-17-14](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/65561f72-29b2-485a-8810-caa831f2ea2d)
+
+to copy the parasitic capacitance we do **ext2spice cthresh 0 rthresh 0**
+
+
+![Screenshot from 2023-09-18 12-14-36](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/f86453c2-9a35-43e7-a4e1-330d4d854ce3)
+
+
 
 
 
