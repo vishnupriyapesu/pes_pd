@@ -899,5 +899,9 @@ outrise threshold:generally take 50% of output waveform
 
 ### IO placer revision
 
+to cahnge the io pin configuration :
 
 
+![Screenshot from 2023-09-18 05-51-12](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/30493a87-5f2c-43e4-9a6d-196620ef10be)
+
+![Screenshot from 2023-09-18 05-54-11](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/bb01be30-8c2c-42eb-9fbd-b789bd5512a1)
