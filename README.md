@@ -962,5 +962,22 @@ complete description of NMOS and PMOS:   .LIB "tsmc_025um_model.mod" CMOS+MODELS
 
 
 
+![36](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/87e925ab-89e7-4a1f-8eb4-d47d8207475b)
+
+### Lab steps to git clone vsdstdcelldesign
+
+- git cloning the repo of **https://github.com/nickson-jose/vsdstdcelldesign.git**
 
 
+
+
+![Screenshot from 2023-09-18 07-56-53](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c4d98e6e-7862-405a-aa3b-4a51fe778152)
+
+
+magic -T sky130A.tech sky130_inv.mag &
+
+
+![Screenshot from 2023-09-18 07-54-28](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/a4cd4cc1-8af6-4eac-91a1-50832051e096)
+
+
+![Screenshot from 2023-09-18 07-54-02](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b98b6191-232c-420c-822b-a7497a030ceb)
