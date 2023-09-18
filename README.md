@@ -1109,6 +1109,8 @@ to copy the parasitic capacitance we do **ext2spice cthresh 0 rthresh 0**
 
 ![Screenshot from 2023-09-18 12-14-36](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/f86453c2-9a35-43e7-a4e1-330d4d854ce3)
 
+We can observe sky130_inv.ext file is created
+
 
 
 
