@@ -1152,3 +1152,9 @@ for plotting: plot y vs time a
 
 ![Screenshot from 2023-09-18 14-18-05](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/aab7dded-909b-46aa-b372-d01c61cc90dc)
 
+
+Rise Time: time taken to rise from 20% to 80% of the max value -> 2.25075e-09 - 2.184e-09 = 0.006675e-09 s.
+
+![Screenshot from 2023-09-18 14-20-18](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/cba3ce25-53c5-44c5-a44a-8d752190879d)
+
+
