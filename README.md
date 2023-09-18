@@ -1037,14 +1037,28 @@ the area which area protected by the mask will be washed out
 - furnace
 ![42](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/dbd15f87-75df-427f-a244-5135d89b80a3)
 
-- LOcal oxodation of silicon called **locos**
+- Local oxodation of silicon called **locos**
 ![43](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/f34e0e56-dc8d-47ce-ac55-0d6a5aea1c19)
 
 - si3N4 etched by hot phosphoric acid
 
 
+![45](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/ab03bdf9-76e0-4956-8c90-26a1de6f4e13)
 
 
+3)Formation of nwell and pwell
+
+- for p well use boron material
+![46](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c3b087f3-2570-402c-b288-d99763f63d08)
+
+- for nwell use phosphorous material
+
+
+![47](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/138e8f82-c524-48d7-8f8b-b41675d48558)
+
+
+
+![48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/48619e6d-1475-4948-a813-1a16835f542d)
 
 
 
