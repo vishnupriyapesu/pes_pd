@@ -1158,3 +1158,23 @@ Rise Time: time taken to rise from 20% to 80% of the max value -> 2.25075e-09 - 
 ![Screenshot from 2023-09-18 14-20-18](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/cba3ce25-53c5-44c5-a44a-8d752190879d)
 
 
+
+### Sky130 PDKS and Steps to Download Magic Tool
+
+-  wget http://opencircuitdesign.com/open_pdks/archive/drc_tests.tgz
+
+
+-mv drc_tests.tgz Desktop/   (move te file to Desktop)
+
+-tar xfz drc_tests.tgz 
+
+- magic -d XR
+
+
+![Screenshot from 2023-09-18 14-29-49](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e2b405e6-a86e-44bf-bc19-940c0dd84b6d)
+
+
+now go to the files open met3.mag
+
+
+![Screenshot from 2023-09-18 14-29-20](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/34b3d15b-d1a8-40f6-9a4e-fdabfb7dbbac)
