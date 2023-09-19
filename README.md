@@ -1178,3 +1178,15 @@ now go to the files open met3.mag
 
 
 ![Screenshot from 2023-09-18 14-29-20](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/34b3d15b-d1a8-40f6-9a4e-fdabfb7dbbac)
+
+
+
+</details>
+
+# Timing Modelling using Delay Tables
+
+<details>
+
+ <summary>Convert Grid Info to Track Info</summary>
+ 
+</details>
