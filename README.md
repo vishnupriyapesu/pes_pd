@@ -1425,7 +1425,76 @@ we do,
 	
 # DAY-5 Power Distribution Network and Routing
 <details>
-<summary> Build Power Distribution Network </summary>
+<summary> roting and DRC </summary>
 
 
+ - In maze routing, you are typically given a grid or network where some cells are obstacles or blocked, and others are open or passable.
+ 
+ - The problem is to find a path from a source point (starting location) to a destination point (target location) while avoiding the obstacles.
+ 
+ - The path should satisfy specific criteria, such as minimizing the path length, avoiding certain areas, or minimizing interference.
+
+     1. Minimum Width and Spacing Rules:
   
+
+       -  Minimum Metal Width: Lambda rules specify the minimum allowable width for metal interconnects or traces. For instance, lambda might represent the minimum metal width for a particular technology node.
+
+   
+       - Minimum Metal Spacing: Lambda rules also define the minimum spacing allowed between adjacent metal traces or features. This spacing is critical to prevent short circuits.
+
+  2.  Minimum Area Rules:
+
+
+        - Minimum Metal Area: Lambda rules may specify the minimum allowable area for metal features, ensuring that metal regions are not too small to be manufacturable or reliable.
+    
+
+       - Minimum Poly/Silicon Area: Similar to metal, minimum area rules may apply to polysilicon or silicon regions to ensure proper manufacturing and performance.
+
+    3. Via Rules:
+    
+       - Minimum Via Size: Lambda rules often define the minimum size of vias used to connect different layers. This includes the diameter or width and the spacing between vias.
+
+    4.Overlap Rules:
+    
+       - Metal Overlap: To prevent open circuits and ensure proper connections, lambda rules may dictate the amount of overlap required between metal layers.
+
+       
+        Poly/Silicon Overlap: Similar to metal, there may be rules regarding the overlap between different polysilicon or silicon layers.
+
+   5. Corner and Edge Rules:
+
+
+       - Corner Radius: Lambda rules may specify the minimum radius for sharp corners in metal traces to prevent manufacturing defects and improve reliability.
+     
+
+       - Edge Exclusion: There could be restrictions on how close features can be to the edge of the die or a particular layer.
+
+   6. Density Rules:
+
+
+       - Metal Density: Lambda rules may set limits on metal density to ensure that there is not too much metal in a given area, which can lead to issues like electromigration.
+     
+
+      - Poly/Silicon Density: Similar density rules may apply to polysilicon or silicon layers.
+
+   7. Specialized Rules:
+
+
+      -  Well Taps and Isolation: Depending on the process technology, lambda rules may specify requirements for well taps, isolation regions, and other specialized features.
+     
+ 8. Gate Rules: For CMOS technology, rules regarding gate lengths and gate pitch are crucial for device performance.
+
+9.Alignment Rules:
+       -  Alignment to Grid: Many lambda rules enforce that all features, such as metal traces and vias, align with a particular grid to ensure proper alignment and spacing.
+       
+
+ 10.   Manufacturing Variability Rules:
+
+
+      -  Process Variability: Some lambda rules may account for manufacturing process variations, ensuring that designs are robust against process variations.
+
+ 11.   Electrical Rules:
+
+
+      -  Signal Integrity: DRC may include rules related to signal integrity, such as avoiding excessive capacitance or resistance in interconnects.
+
