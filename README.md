@@ -1190,3 +1190,10 @@ now go to the files open met3.mag
  <summary>Convert Grid Info to Track Info</summary>
  
 </details>
+
+standard cell set:
+
+- input and output port should be  on the intersection of the vertical and horizontal tracks
+
+- width of the standard cell should be odd multiple of the track pitch and height should be odd multiple of vertical pitch
+
