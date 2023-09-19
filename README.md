@@ -1423,7 +1423,7 @@ we do,
 </details>
 
 	
-# DAY-5 Power Distribution Network and Routing
+# DAY-5 Final steps for RTL2GDS using tritonRoute and openSTA
 <details>
 <summary> routing and DRC </summary>
 
@@ -1494,3 +1494,38 @@ we do,
  11.   Electrical Rules:
  -  Signal Integrity: DRC may include rules related to signal integrity, such as avoiding excessive capacitance or resistance in interconnects.
 
+</details>
+<details>
+<summary>Power Distribution Network and Routing</summary>
+
+- type **gen_pdn**
+
+![Screenshot from 2023-09-20 01-46-38](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/90c75e27-0370-45d2-939b-16006d21279d)
+
+![Screenshot from 2023-09-20 01-47-36](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e70b24cd-4e7c-4a02-bd25-d552eb40033c)
+
+![Screenshot from 2023-09-20 01-48-10](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/a77d6bf6-8fd0-48fe-b7d1-66d239fc26f7)
+
+
+-  We can observe the change in DEF.
+
+-  now we use spice extraction
+
+
+run the following to extract spice file:
+
+- cd Desktop/work/tools/SPEF_Extractor
+
+- python3 /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/16-09_19-58/tmp/merged.lef /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/16-09_19-58/results/routing/picorv32a.def
+
+- /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/16-09_19-58/results/routing/
+
+here is location of spice file
+
+
+
+
+
+
+
+  
