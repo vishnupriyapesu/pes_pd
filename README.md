@@ -1195,8 +1195,6 @@ guidelines for standard cell set:
 
 - input and output port should be  on the intersection of the vertical and horizontal tracks
 
-- width of the standard cell should be odd multiple of the track pitch and height should be odd multiple of vertical pitch
-
 - tracks are used during routing
 
 now the appearing on the magic we do the following step should be done:
@@ -1221,7 +1219,38 @@ then on the tkcon window do
 
 
 
+
 we can observe in the below picture that the grid has appeared:
 
 
 ![Screenshot from 2023-09-19 09-54-30](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b01ab119-dd88-448c-ae7b-49cbc7b8d32d)
+
+
+- grid we will use for LEF
+
+</details>
+<details>
+	<summary>Labs to convert magic layout to std cell LEF</summary>
+
+
+the another guideline foe std cell is:
+
+- width of the standard cell should be odd multiple of the track pitch and height should be odd multiple of vertical pitch
+
+
+portnumber: decides the order in which the length is written
+
+![Screenshot from 2023-09-19 10-18-41](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/480eb623-26a5-4d79-88b3-8bcbd53a23dd)
+
+this how we need to define port number for specified layer 
+
+after we are done with port number specifiaction we are ready to extract LEF file
+
+
+to be precise with name of the cell 
+
+- go the tkcon and stype **save sky130_vsdinv.mag**
+ 
+- and check the list for vsdcell directory
+
+![Screenshot from 2023-09-19 10-24-43](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/70bca965-3a15-4585-bf87-4fbe642e6b87)
