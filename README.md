@@ -1184,7 +1184,7 @@ now go to the files open met3.mag
 
 </details>
 
-# Timing Modelling using Delay Tables
+# Day-4-Timing Modelling using Delay Tables
 
 <details>
 
@@ -1264,6 +1264,7 @@ To create lef file :
 
 
 then, type **less sky130_vsdinv.lef
+
 
 ![Screenshot from 2023-09-19 10-37-10](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/0f5a88ab-6b25-4aed-8af9-d48900eb3c5f)
 
