@@ -1420,5 +1420,12 @@ we do,
 
 ![Screenshot from 2023-09-20 01-19-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fddc00a1-935d-40fc-8558-1a1ee786e1d8)
 
+</details>
+
+	
+# DAY-5 Power Distribution Network and Routing
+<details>
+<summary> Build Power Distribution Network </summary>
+
 
   
