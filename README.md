@@ -1228,10 +1228,8 @@ we can observe in the below picture that the grid has appeared:
 
 - grid we will use for LEF
 
-</details>
-<details>
-	<summary>Labs to convert magic layout to std cell LEF</summary>
 
+### Labs to convert magic layout to std cell LEF
 
 the another guideline foe std cell is:
 
@@ -1270,5 +1268,8 @@ then, type **less sky130_vsdinv.lef
 
 
 ![Screenshot from 2023-09-19 10-34-26](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6813d411-dc70-43b5-a08a-1d8ef37aa431)
+
+
+
 
 
