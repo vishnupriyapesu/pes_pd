@@ -15,7 +15,6 @@
  
  Block diagram of Arduino board
 
-
  ![pd2](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c87f0870-8bba-4e3f-b347-d7e33db6a4e2)
 
  IC in board (Package : QFN -48 Quad flat No-leads)
