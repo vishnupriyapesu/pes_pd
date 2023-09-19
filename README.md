@@ -1191,7 +1191,6 @@ now go to the files open met3.mag
  <summary>Convert Grid Info to Track Info</summary>
  
 
-
 guidelines for standard cell set:
 
 - input and output port should be  on the intersection of the vertical and horizontal tracks
