@@ -1447,8 +1447,8 @@ we do,
     
 
        - Minimum Poly/Silicon Area: Similar to metal, minimum area rules may apply to polysilicon or silicon regions to ensure proper manufacturing and performance.
-
-    3. Via Rules:
+        
+ 3. Via Rules:
     
 - Minimum Via Size: Lambda rules often define the minimum size of vias used to connect different layers. This includes the diameter or width and the spacing between vias.
 
