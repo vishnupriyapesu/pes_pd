@@ -1379,3 +1379,46 @@ read the .src file
   
 ![Screenshot from 2023-09-20 01-09-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7aa67ef6-b18d-4ed2-89ec-d954c12a0f22)
 
+
+- set_propagated_clock [all_clocks]   to set the clock
+
+- report_checks -path_delay min_max -format full_clock_expanded -digits 4      to check the report
+
+![Screenshot from 2023-09-20 01-13-40](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1fb85390-2f9e-413b-8863-666220bd3a35)
+
+
+for precise results:
+
+we do,
+
+- openroad
+
+- write_db pico_cts.db
+
+
+- read_db pico_cts.db
+
+
+- read_verilog /openLANE_flow/designs/picorv32a/runs/16-09_19-58/results/synthesis/picorv32a.synthesis_cts.v
+
+
+- read_liberty -max $::env(LIB_SYNTH_COMPLETE)
+
+![Screenshot from 2023-09-20 01-18-16](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/21905902-99da-4820-93be-4d9196a641fa)
+
+
+![Screenshot from 2023-09-20 01-18-30](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b2c31831-94f4-4ca3-bfd7-6ac8b649e6a8)
+
+
+![Screenshot from 2023-09-20 01-18-46](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1066de24-c74c-4efb-b128-2d0ba06a9447)
+
+
+- report_clock_skew -hold
+
+
+- report clock_skew -setup
+
+![Screenshot from 2023-09-20 01-19-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fddc00a1-935d-40fc-8558-1a1ee786e1d8)
+
+
+  
