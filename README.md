@@ -775,6 +775,7 @@ Repeaters are buffer which recondition the original signal ,replicated original 
 - supply voltage : take care of noise margin level with resppect to voltage
 
 - Metal layers
+
 - 
 ![13](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/fa182eff-d76b-4205-818d-26044fc5608c)
 
