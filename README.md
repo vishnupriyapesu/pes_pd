@@ -1220,6 +1220,7 @@ then on the tkcon window do
 ![Screenshot from 2023-09-19 09-54-19](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1b73f778-edf3-4581-8ad4-8be085036ace)
 
 
+
 we can observe in the below picture that the grid has appeared:
 
 
