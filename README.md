@@ -1184,7 +1184,7 @@ now go to the files open met3.mag
 
 </details>
 
-# Day-4-Timing Modelling using Delay Tables
+# Day-4 Timing Modelling using Delay Tables
 
 <details>
 
