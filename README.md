@@ -1189,11 +1189,38 @@ now go to the files open met3.mag
 
  <summary>Convert Grid Info to Track Info</summary>
  
-</details>
 
-standard cell set:
+
+guidelines for standard cell set:
 
 - input and output port should be  on the intersection of the vertical and horizontal tracks
 
 - width of the standard cell should be odd multiple of the track pitch and height should be odd multiple of vertical pitch
 
+- tracks are used during routing
+
+now the appearing on the magic we do the following step should be done:
+
+
+-  magic -T sky130.tech sky130_inv.mag
+
+- less tracks.info
+
+![Screenshot from 2023-09-19 09-59-56](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7458475b-f9fb-45d8-84a2-4e837fd405a4)
+
+
+![Screenshot from 2023-09-19 09-57-42](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/3e634d21-c1e5-48e5-8f14-8cd3b8a5db68)
+
+![Screenshot from 2023-09-19 09-53-16](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/99c85ae2-ae6d-418e-b6ca-bbc81847b97b)
+
+
+
+then on the tkcon window do 
+
+![Screenshot from 2023-09-19 09-54-19](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/1b73f778-edf3-4581-8ad4-8be085036ace)
+
+
+we can observe in the below picture that the grid has appeared:
+
+
+![Screenshot from 2023-09-19 09-54-30](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/b01ab119-dd88-448c-ae7b-49cbc7b8d32d)
