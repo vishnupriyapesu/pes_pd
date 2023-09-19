@@ -1263,6 +1263,12 @@ To create lef file :
 ![Screenshot from 2023-09-19 10-30-13](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/588d9e8a-fbd5-41e9-8b65-1ebf24f3b15d)
 
 
+then, type **less sky130_vsdinv.lef
+
+![Screenshot from 2023-09-19 10-37-10](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/0f5a88ab-6b25-4aed-8af9-d48900eb3c5f)
+
+
+
 ![Screenshot from 2023-09-19 10-34-26](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6813d411-dc70-43b5-a08a-1d8ef37aa431)
 
 
