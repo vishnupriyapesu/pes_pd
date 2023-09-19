@@ -1270,6 +1270,12 @@ then, type **less sky130_vsdinv.lef
 ![Screenshot from 2023-09-19 10-34-26](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/6813d411-dc70-43b5-a08a-1d8ef37aa431)
 
 
+**Steps to Include New Cell in Synthesis**
+
+we copy .mag file to src folder of picorv32a
+
+![Screenshot from 2023-09-19 23-54-18](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/59c94a69-9b9e-4907-a445-b6ae19de6581)
 
 
+![Screenshot from 2023-09-19 23-54-05](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/850add7b-3530-4841-ab05-1ae9baad34cf)
 
