@@ -1449,15 +1449,12 @@ we do,
        - Minimum Poly/Silicon Area: Similar to metal, minimum area rules may apply to polysilicon or silicon regions to ensure proper manufacturing and performance.
 
     3. Via Rules:
-    
-       - Minimum Via Size: Lambda rules often define the minimum size of vias used to connect different layers. This includes the diameter or width and the spacing between vias.
+     - Minimum Via Size: Lambda rules often define the minimum size of vias used to connect different layers. This includes the diameter or width and the spacing between vias.
 
     4.Overlap Rules:
-    
-       - Metal Overlap: To prevent open circuits and ensure proper connections, lambda rules may dictate the amount of overlap required between metal layers.
+    - Metal Overlap: To prevent open circuits and ensure proper connections, lambda rules may dictate the amount of overlap required between metal layers.
 
-       
-        Poly/Silicon Overlap: Similar to metal, there may be rules regarding the overlap between different polysilicon or silicon layers.
+- Poly/Silicon Overlap: Similar to metal, there may be rules regarding the overlap between different polysilicon or silicon layers.
 
    5. Corner and Edge Rules:
 
