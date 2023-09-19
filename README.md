@@ -1425,7 +1425,7 @@ we do,
 	
 # DAY-5 Power Distribution Network and Routing
 <details>
-<summary> roting and DRC </summary>
+<summary> routing and DRC </summary>
 
 
  - In maze routing, you are typically given a grid or network where some cells are obstacles or blocked, and others are open or passable.
@@ -1436,11 +1436,9 @@ we do,
 
      1. Minimum Width and Spacing Rules:
   
+ -  Minimum Metal Width: Lambda rules specify the minimum allowable width for metal interconnects or traces. For instance, lambda might represent the minimum metal width for a particular technology node.
 
-       -  Minimum Metal Width: Lambda rules specify the minimum allowable width for metal interconnects or traces. For instance, lambda might represent the minimum metal width for a particular technology node.
-
-   
-       - Minimum Metal Spacing: Lambda rules also define the minimum spacing allowed between adjacent metal traces or features. This spacing is critical to prevent short circuits.
+    - Minimum Metal Spacing: Lambda rules also define the minimum spacing allowed between adjacent metal traces or features. This spacing is critical to prevent short circuits.
 
   2.  Minimum Area Rules:
 
@@ -1490,11 +1488,8 @@ we do,
 
  10.   Manufacturing Variability Rules:
 
-
-      -  Process Variability: Some lambda rules may account for manufacturing process variations, ensuring that designs are robust against process variations.
+-  Process Variability: Some lambda rules may account for manufacturing process variations, ensuring that designs are robust against process variations.
 
  11.   Electrical Rules:
-
-
-      -  Signal Integrity: DRC may include rules related to signal integrity, such as avoiding excessive capacitance or resistance in interconnects.
+ -  Signal Integrity: DRC may include rules related to signal integrity, such as avoiding excessive capacitance or resistance in interconnects.
 
