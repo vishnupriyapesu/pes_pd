@@ -1434,7 +1434,7 @@ we do,
  - The problem is to find a path from a source point (starting location) to a destination point (target location) while avoiding the obstacles.
  
  - The path should satisfy specific criteria, such as minimizing the path length, avoiding certain areas, or minimizing interference.
- - 
+
 **lambda rules for design specification**
 
      1. Minimum Width and Spacing Rules:
