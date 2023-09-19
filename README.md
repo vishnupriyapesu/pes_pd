@@ -1344,3 +1344,39 @@ now type **magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/s
 </details>
 <details>
 	<summary>Clock Tree Synthesis TritonCTS and Signal Integrity</summary>
+
+ **Run CTS**
+
+ - run_cts    to run the CTS
+
+![Screenshot from 2023-09-20 00-59-44](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/c7e7fe40-ad13-465e-9d17-302b1c715757)
+
+
+- openroad
+
+- read_def /openLANE_flow/designs/picorv32a/runs/16-09_19-58/results/cts/picorv32a.cts.def
+
+![Screenshot from 2023-09-20 01-04-45](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e8b45e58-5516-48b5-8b9a-cd4eee6ec5d0)
+
+- write_db pico_cts.db
+  
+- read_db pico_cts.db
+  
+- read_verilog /openLANE_flow/designs/picorv32a/runs/16-09_19-58/results/synthesis/picorv32a.synthesis_cts.v
+  
+- read_liberty -max $::env(LIB_SLOWEST)
+
+
+- read_liberty -max $::env(LIB_FASTEST)
+
+  
+![Screenshot from 2023-09-20 01-07-02](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d03c7363-a269-4ff4-b690-acb22d36bbb7)
+
+
+read the .src file
+
+- read_sdc /openLANE_flow/designs/picorv32a/src/sky130/my_base.sdc
+
+  
+![Screenshot from 2023-09-20 01-09-48](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7aa67ef6-b18d-4ed2-89ec-d954c12a0f22)
+
