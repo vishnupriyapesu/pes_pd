@@ -1254,3 +1254,12 @@ to be precise with name of the cell
 - and check the list for vsdcell directory
 
 ![Screenshot from 2023-09-19 10-24-43](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/70bca965-3a15-4585-bf87-4fbe642e6b87)
+
+
+To create lef file :
+- go to the tkcon and type **lef write**
+
+![Screenshot from 2023-09-19 10-30-13](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/588d9e8a-fbd5-41e9-8b65-1ebf24f3b15d)
+
+
+![Screenshot from 2023-09-19 10-30-34](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/d13bf7cd-30eb-4ff6-bf38-3c024f73e858)
