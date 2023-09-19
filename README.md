@@ -1279,3 +1279,68 @@ we copy .mag file to src folder of picorv32a
 
 ![Screenshot from 2023-09-19 23-54-05](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/850add7b-3530-4841-ab05-1ae9baad34cf)
 
+modifying  the 'config.tcl' file in the picorv32a folder :
+
+- open **interactive cell**
+
+- prep -design picorv32a -tag 16-09_19-58 -overwrite
+  
+- set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+  
+- add_lefs -src $lefs
+
+  
+![Screenshot from 2023-09-20 00-00-39](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7a8d30d5-b59b-41c7-90b1-e858ec22727a)
+
+
+- next type **run_synthesis**
+
+![Screenshot from 2023-09-20 00-05-39](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/7e500b6e-91bc-4ba9-94b5-85e76372a65b)
+
+
+![Screenshot from 2023-09-20 00-05-55](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/96f8cac7-fb41-48ee-a772-c8468652779e)
+
+To run floorplan and placement  type:
+
+- init_floorplan
+- run_placement
+
+now type **magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &**
+
+![Screenshot from 2023-09-20 00-15-06](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/3facadde-71e3-4acc-8f0e-7628045647ae)
+
+
+![Screenshot from 2023-09-20 00-15-58](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/93e95450-ec25-40a8-a75c-f534e1c3cee8)
+
+
+![Screenshot from 2023-09-20 00-18-39](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/96043cfa-e709-4a46-aecf-bde026b1c747)
+</details>
+<details>
+<summary>Timing Analysis with Ideal Clocks using OpenSTA</summary>
+
+ # Timing Analysis with Ideal Clocks using OpenSTA
+
+**Configure OpenSTA for Post-Synth Timing Analysis**
+
+
+-  We should create two files
+
+![Screenshot from 2023-09-20 00-39-26](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/cf25d33d-0f30-46a2-bba9-bda89b5b6793)
+
+> pre_sta.conf    (should be openlane directory)
+
+
+![Screenshot from 2023-09-20 00-42-14](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/e7d5d911-d614-4546-b2e4-44f586304da0)
+
+>  my_base.sdc
+
+
+
+![Screenshot from 2023-09-20 00-47-27](https://github.com/vishnupriyapesu/pes_pd/assets/142419649/89a226d1-6ebb-4dd9-b309-b9087f9cd4ce)
+
+
+- sta pre_sta.conf
+
+</details>
+<details>
+	<summary>Clock Tree Synthesis TritonCTS and Signal Integrity</summary>
